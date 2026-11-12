@@ -1,4 +1,4 @@
-## Hola, soy Robinson
+## Hola, soy Robinson Cubas Benavides
 
 Estudiante de Ingeniería en Ciencia de Datos e IA. Manejo Python y SQL, y desarrollo aplicaciones enfocadas en resolver necesidades concretas. Me interesa la ingeniería de IA y el desarrollo de productos basados en datos.
 
